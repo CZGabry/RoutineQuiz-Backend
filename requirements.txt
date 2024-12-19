@@ -1,0 +1,11 @@
+APScheduler==3.10.4
+asyncodbc==0.1.1
+firebase_admin==6.3.0
+Flask==3.0.3
+openai==0.27.6
+PyJWT==2.8.0
+PyJWT==2.8.0
+pyodbc==5.1.0
+pytz==2023.3
+quart==0.19.5
+quart_cors==0.7.0

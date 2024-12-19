@@ -1,0 +1,9 @@
+# IDE-specific folders
+vs/
+vscode/
+
+# Python cache folders
+__pycache__/
+
+# Config
+config
